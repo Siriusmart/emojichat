@@ -10,7 +10,8 @@
     "dependencies": {
         "keep": "0.1.0",
         "yarn": "0.1.0",
-        "toggle": "0.1.0"
+        "toggle": "0.1.0",
+        "yarntogglepass": "0.1.0"
     },
 
     "repository": null,
