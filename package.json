@@ -1,10 +1,10 @@
 {
-    "name": "emojichat",
+    "name": "toggle-emojichat",
     "version": "0.1.0",
     "authors": [ "Sirius<siriusmart>" ],
     "description": "Use Discord style emoji in chat.",
     "license": "AGPL-3.0-or-later",
-    "keywords": [ "chat" ],
+    "keywords": [ "chat", "toggle" ],
 
     "entry": "entry.js",
     "dependencies": {
@@ -14,6 +14,6 @@
         "yarntogglepass": "0.1.0"
     },
 
-    "repository": "https://github.com/siriusmart/emojichat/",
+    "repository": "https://github.com/siriusmart/toggle-emojichat/",
     "homepage": null
 }
