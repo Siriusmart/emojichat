@@ -2,7 +2,7 @@ let emojichat = {
     name: "emojichat",
     displayName: "EmojiChat",
 
-    defaultEmojis: require("modules/emojichat/default.json"),
+    defaultEmojis: require("modules/toggle-emojichat/default.json"),
 
     processMessage: (message) => {
         let config = modkeep.get("emojichat/emojis", emojichat.defaultEmojis);
