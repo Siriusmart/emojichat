@@ -1,4 +1,4 @@
-# EmojiChat
+# [Toggle] EmojiChat
 
 Toggle for Discord-style emoji syntax in Minecraft chat.
 
@@ -9,7 +9,7 @@ Toggle for Discord-style emoji syntax in Minecraft chat.
 #### Using [pully](https://github.com/FabricCore/pully)
 
 ```
-/pully install emojichat
+/pully install toggle-emojichat
 ```
 
 #### Require as Dependency
@@ -17,7 +17,7 @@ Toggle for Discord-style emoji syntax in Minecraft chat.
 ```json
 {
   "dependencies": {
-    "emojichat": "0.1.0"
+    "toggle-emojichat": "0.1.0"
   }
 }
 ```
